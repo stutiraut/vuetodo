@@ -1,6 +1,5 @@
-<<<<<<< HEAD
-# vue-proj
-
+## Vue ToDO List Project
+This is my first project in this class. Here I have used vue js, a JS framework to do the front end.
 ## Project setup
 ```
 npm install
